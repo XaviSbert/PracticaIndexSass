@@ -1,3 +1,27 @@
 /* ********* */
 /* @VARIABLES */
 /* ********* */
+
+// Colores
+$colores:(
+    basicos: (
+        blanco: #fff,
+        negro: #000,
+    ),
+    grises: (
+        gris1: #d5d5d5,
+        gris2: #959595,
+        gris3: #3d3d3d,
+    )
+    fondo: (
+        colorFondo: #5d3e75,
+    ),
+    texo: (
+        titulo: #fefbff,
+        parrafo: #a286bd,
+    ),
+    links: (
+        base: #f3e38d,
+        degradado: #de9675,
+    ),
+)
